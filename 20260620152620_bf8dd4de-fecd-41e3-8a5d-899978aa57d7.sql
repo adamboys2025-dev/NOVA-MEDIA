@@ -1,0 +1,1 @@
+UPDATE public.store_settings SET store_name='Nova Media' WHERE id=1;
